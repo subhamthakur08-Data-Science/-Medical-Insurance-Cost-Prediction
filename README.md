@@ -95,8 +95,7 @@ Medical-Insurance-Cost-Prediction/
 │
 ├── Medical_Insurance_Cost_Prediction.ipynb
 ├── insurance.csv
-├── README.md
-└── requirements.txt
+└──  README.md
 ```
 
 ---
@@ -114,13 +113,6 @@ git clone https://github.com/subhamthakur08-Data-Science/Medical-Insurance-Cost-
 ```bash
 cd Medical-Insurance-Cost-Prediction
 ```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run the project
 
 ```bash
