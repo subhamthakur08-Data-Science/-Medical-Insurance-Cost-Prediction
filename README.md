@@ -93,7 +93,7 @@ The models were evaluated using:
 ```
 Medical-Insurance-Cost-Prediction/
 │
-├── Medical Insurance Cost Prediction (1).ipynb
+├── Medical_Insurance_Cost_Prediction.ipynb
 ├── insurance.csv
 ├── README.md
 └── requirements.txt
